@@ -1,0 +1,4 @@
+.vscode
+/rust_solver/target
+main
+librust_solver.so
